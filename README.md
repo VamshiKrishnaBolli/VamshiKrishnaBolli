@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @VamshiKrishnaBolli
+I’m @VamshiKrishnaBolli
+Student at Vellore Institute of Technology, Vellore.
 
 
 <!---
