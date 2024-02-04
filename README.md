@@ -53,16 +53,10 @@ I am a student, currently studying at Vellore Institute of Technology. 🧠
 						<span><strong>Javascript</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 					</td>
-				
-					<td align="center">
-						<span><strong>React</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
-					</td>
-					
 				</tr>
 			</tbody>
 		</table>
-	</div>
+</div>
 	
 - *Backend Development*
 	<div align="left">
