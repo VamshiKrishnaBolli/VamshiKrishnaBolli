@@ -85,7 +85,7 @@ I am a student, currently studying at Vellore Institute of Technology. 🧠
 	</div>
 
 ## What I want to do next :thinking:
-- Delve into AI and ML
+- Dive into AI and ML
 - DevOps
 - Qualify for GSOC 
 
@@ -94,7 +94,6 @@ I am a student, currently studying at Vellore Institute of Technology. 🧠
 
 
 
-### Interesting stats
 
 
 <!---
