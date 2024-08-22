@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/drq90wt7m/image/upload/v1707017142/I%20care/kqldxhxjoicvqpvaixsd.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Vamshi Krishna</h1>
 
