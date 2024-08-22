@@ -90,7 +90,18 @@ I am a student, currently studying at Vellore Institute of Technology. 🧠
 - Qualify for GSOC 
 
 ## Reach me 
-[![LinkedIn](https://www.linkedin.com/in/vamshi-krishna-94934b220/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-krishna-94934b220/) 
+[![Mail](https://img.shields.io/badge/-vamshikrishnabolli@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/vamshi-krishna-94934b220/)](mailto:vamshikrishnabolli@gmail.com)
+
+
+### Interesting stats
+
+<!-- ![Uday kiran's stats](https://github-readme-stats.vercel.app/api?username=uday283&show_icons=true&count_private=true&hide=stars) -->
+
+
+<p ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=uday283&show_icons=true&locale=en&layout=compact" alt="uday283" /></p>
+
+Thanks for stopping by! 😁
 
 
 
