@@ -90,7 +90,7 @@ I am a student, currently studying at Vellore Institute of Technology. 🧠
 - Qualify for GSOC 
 
 ## Reach me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-krishna-94934b220/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-krishna-bolli-94934b220/) 
 [![Mail](https://img.shields.io/badge/-vamshikrishnabolli@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/vamshi-krishna-94934b220/)](mailto:vamshikrishnabolli@gmail.com)
 
 
